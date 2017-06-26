@@ -1,3 +1,0 @@
-ceci est présent sur les deux branches
-
-je veux que cette ligne soit commit sur les deux
